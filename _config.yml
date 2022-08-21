@@ -62,13 +62,12 @@ links:
 
 
 
-    # TIKTOK
-  - Name: TikTok
-    URL: https://www.tiktok.com
-    Username: @activemandarin
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
 
+  - Name: Tiktok
+    URL: https://tiktok.com/@activemandarin
+    Icon-Class: fab fa-tiktok
+    Color: '#FE2C55'
+    Text_Color: '#ffffff'
 
 
 
