@@ -123,8 +123,8 @@ links:
     Color: '#25d366'
     Text_Color: '#ffffff'
 
-      - Name: Blog
-    URL: 
+  - Name: Blog
+    URL: https://docs.google.com/forms/d/e/1FAIpQLSe5TQZJePvCmKu8o38KbWLDi8RBnCgj6Nwaq4D6KhOxxhaL_w/viewform
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
