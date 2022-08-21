@@ -1,19 +1,16 @@
-# YOUR NAME OR TITLE OF YOUR SITE
-name: Activemandarin course
-# YOUR BRAND/PERSONAL TAGLINE
-tagline: Belaajr bahasa mandarin jauh lebih mudah dengan activemandarin.id. yuk join sekarang dengan klik tombol di bawah ini
 
-# YOUR/BRAND IMAGE URL
+name: Activemandarin course
+
+tagline: Belajar bahasa mandarin jauh lebih mudah dengan activemandarin.id. yuk join sekarang dengan klik tombol di bawah ini
+
+
 Image_URL: https://activemandarin.id/links/logo.jpeg
 
-# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+
 Cover_Image: https://activemandarin.id/links/bg.jpg
 
 # SOCIAL MEDIA
-links:
-
-  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-    
+links:  
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
@@ -24,21 +21,21 @@ links:
     # TWITTER
  # - Name: Twitter
  #   URL: https://twitter.com
- #   Username: harsh98trivedi
+ #   Username: 
  #   Color: '#1DA1F2'
   #  Icon-Class: fab fa-twitter
 
     # CLUBHOUSE
 #  - Name: Clubhouse
 #    URL: https://www.clubhouse.com
- #   Username: '@harsh98trivedi'
+ #   Username: '@'
  #   Color: '#f1c40f'
  #   Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
  # - Name: LinkedIn
 #    URL: https://www.linkedin.com/in
- #   Username: harsh98trivedi
+ #   Username: 
   #  Color: '#2867B2'
  #   Icon-Class: fab fa-linkedin-in
 
@@ -52,7 +49,7 @@ links:
     # GITHUB
 #  - Name: GitHub
  #   URL: http://github.com
-#    Username: harsh98trivedi
+#    Username: 
   #  Color: '#6e5494'
  #   Icon-Class: fab fa-github
 
@@ -63,32 +60,9 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # TWITCH
- # - Name: Twitch
- #   URL: 'https://twitch.tv'
- #   Username: harsh98trivedi
-  #  Icon-Class: fab fa-twitch
-  #  Color: '#9147fe'
-  #  Text_Color: '#ffffff'
-
-    # VIMEO
- # - Name: Vimeo
- #   URL: 'https://vimeo.com'
- #   Username: harshtrivedi
- #   Icon-Class: fab fa-vimeo-v
- #   Color: '#1ab7ea'
- #   Text_Color: '#ffffff'
-
-    # MESSENGER
- # - Name: Messenger
-  #   URL: https://m.me
-  #   Username: theharshtrivedi
- #   Color: '#006AFF'
- #   Icon-Class: fab fa-facebook-messenger
 
 
-
-      # TIKTOK
+    # TIKTOK
   - Name: TikTok
     URL: https://www.tiktok.com
     Username: 
@@ -117,10 +91,7 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
-# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: ''
-
-# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
 # Compress
 compress_html:
