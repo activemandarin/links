@@ -16,7 +16,7 @@ links:
      # WHATSAPP
    - Name: Hubungi kami 24/7
      URL: https://wa.me
-     Username: '+6281368931870'
+     Username: '+1123456789'
     Color: '#25d366'
      Icon-Class: fab fa-whatsapp
 
@@ -74,19 +74,13 @@ links:
     Text_Color: '#ffffff'
 
   - Name: blog
-    URL: 
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
-
-      - Name: beli secara manual
-    URL: 
+    URL: https://github.com//links
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: ''
+footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
