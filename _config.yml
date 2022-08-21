@@ -17,7 +17,7 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: 
+    Username: harsh98trivedi
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
@@ -93,7 +93,12 @@ links:
  #   Color: '#006AFF'
  #   Icon-Class: fab fa-facebook-messenger
 
-
+    # REDDIT
+  - Name: Reddit
+    URL: http://reddit.com/u
+    Username: harshtrivedi
+    Color: '#FF4500'
+    Icon-Class: fab fa-reddit-alien
 
       # TIKTOK
    - Name: TikTok
