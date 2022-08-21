@@ -108,12 +108,6 @@ links:
   #   Icon-Class: fab fa-tiktok
 
 
-       # WHATSAPP
-   - Name: WhatsApp
-     URL: https://wa.me/
-     Username: '6285162557124'
-     Color: '#25d366'
-     Icon-Class: fab fa-whatsapp
 
 
     # CUSTOM LINK
@@ -123,10 +117,10 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
-  - Name: Links
+  - Name: hubungi kami
     URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
+    Icon-Class: fab fa-whatsapp
+    Color: '#25d366'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
