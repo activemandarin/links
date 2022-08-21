@@ -24,7 +24,7 @@ links:
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: activemandarin.id
+    Username: harsh98trivedi
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
@@ -93,12 +93,7 @@ links:
  #   Color: '#006AFF'
  #   Icon-Class: fab fa-facebook-messenger
 
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
+
 
       # TIKTOK
    - Name: TikTok
