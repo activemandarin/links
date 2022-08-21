@@ -1,7 +1,7 @@
 # YOUR NAME OR TITLE OF YOUR SITE
 name: Activemandarin course
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Belaajr bahasa mandarin jauh lebih mudah dengan activemandarin.id. yuk join sekarang dengan klik tombol di bawah ini
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://activemandarin.id/links/logo.jpeg
@@ -14,12 +14,7 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-       # WHATSAPP
-   - Name: WhatsApp
-     URL: https://wa.me
-     Username: '+1123456789'
-     Color: '#25d366'
-     Icon-Class: fab fa-whatsapp
+
     
     # FACEBOOK
   - Name: Facebook
