@@ -13,8 +13,6 @@ Cover_Image: https://activemandarin.id/links/bg.jpg
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-
-
     
     # FACEBOOK
   - Name: Facebook
@@ -90,8 +88,8 @@ links:
 
     # MESSENGER
  # - Name: Messenger
-#    URL: https://m.me
-#    Username: theharshtrivedi
+  #   URL: https://m.me
+  #   Username: theharshtrivedi
  #   Color: '#006AFF'
  #   Icon-Class: fab fa-facebook-messenger
 
@@ -102,8 +100,6 @@ links:
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
 
-
-
   #    # TIKTOK
   # - Name: TikTok
   #   URL: https://www.tiktok.com
@@ -112,8 +108,12 @@ links:
   #   Icon-Class: fab fa-tiktok
 
 
-
-
+       # WHATSAPP
+   - Name: WhatsApp
+     URL: https://wa.me/
+     Username: '6285162557124'
+     Color: '#25d366'
+     Icon-Class: fab fa-whatsapp
 
 
     # CUSTOM LINK
