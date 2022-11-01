@@ -86,7 +86,7 @@ links:
 
   - Name: Website
     URL: https://activemandarin.id
-    Icon-Class: fa-globe
+    Icon-Class: fa fa-globe
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
