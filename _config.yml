@@ -87,7 +87,7 @@ links:
     #Color: '#ffb142'
     #Text_Color: '#ffffff'
 
-  - Name: hubungi kami
+  - Name: Hubungi Kami
     URL: https://api.whatsapp.com/send/?phone=6285162557124&text&type=phone_number&app_absent=0
     Icon-Class: fab fa-whatsapp
     Color: '#25d366'
