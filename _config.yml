@@ -57,13 +57,13 @@ links:
   - Name: Instagram
     URL: https://www.instagram.com
     Username: activemandarin.id
-    Color: '#DD2A7B'
+    Color: '#c32aa3'
     Icon-Class: fab fa-instagram
 
   - Name: Facebook
     URL: https://www.facebook.com
     Username: activemandarinindonesia
-    Color: '#DD2A7B'
+    Color: '#3b5998'
     Icon-Class: fab fa-facebook-f
 
 
