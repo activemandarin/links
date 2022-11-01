@@ -11,14 +11,14 @@ Cover_Image: https://activemandarin.id/links/bg.jpg
 
 # SOCIAL MEDIA
 links:  
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: activemandarin.id
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
 
-    #TWITTER
+  - Name: Website
+    URL: https://activemandarin.id
+    Icon-Class: fa fa-globe
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+    #Free trial
   - Name: Gabung Free Trial
     URL: https://t.me/activemandarin
     Username: 
@@ -53,15 +53,12 @@ links:
   #  Color: '#6e5494'
  #   Icon-Class: fab fa-github
 
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:support@activemandarin.id'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
 
-
-
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: activemandarin.id
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
 
   - Name: Tiktok
     URL: https://tiktok.com/@activemandarin
@@ -69,26 +66,27 @@ links:
     Color: '#FE2C55'
     Text_Color: '#ffffff'
 
-
-
-    # CUSTOM LINK
-  - Name: daftar manual
-    URL: https://docs.google.com/forms/d/e/1FAIpQLSe5TQZJePvCmKu8o38KbWLDi8RBnCgj6Nwaq4D6KhOxxhaL_w/viewform
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:support@activemandarin.id'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
     Text_Color: '#ffffff'
 
+    # CUSTOM LINK
+  #- Name: Daftar Manual
+   # URL: https://docs.google.com/forms/d/e/1FAIpQLSe5TQZJePvCmKu8o38KbWLDi8RBnCgj6Nwaq4D6KhOxxhaL_w/viewform
+    #Icon-Class: fas fa-link
+    #Color: '#ffb142'
+    #Text_Color: '#ffffff'
+
   - Name: hubungi kami
-    URL: https://api.whatsapp.com/send/?phone=6281368931870&text&type=phone_number&app_absent=0
+    URL: https://api.whatsapp.com/send/?phone=6285162557124&text&type=phone_number&app_absent=0
     Icon-Class: fab fa-whatsapp
     Color: '#25d366'
     Text_Color: '#ffffff'
 
-  - Name: Website
-    URL: https://activemandarin.id
-    Icon-Class: fa fa-globe
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
+
 
 footer: ''
 
