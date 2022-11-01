@@ -84,9 +84,9 @@ links:
     Color: '#25d366'
     Text_Color: '#ffffff'
 
-  - Name: Blog
-    URL: 
-    Icon-Class: fas fa-link
+  - Name: Website
+    URL: https://activemandarin.id
+    Icon-Class: fa-globe
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
