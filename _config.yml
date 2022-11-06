@@ -25,48 +25,27 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-telegram-plane
 
-    # CLUBHOUSE
-#  - Name: Clubhouse
-#    URL: https://www.clubhouse.com
- #   Username: '@'
- #   Color: '#f1c40f'
- #   Icon-Class: fas fa-hand-paper -mt-0.5
-    
-    # LINKEDIN
- # - Name: LinkedIn
-#    URL: https://www.linkedin.com/in
- #   Username: 
-  #  Color: '#2867B2'
- #   Icon-Class: fab fa-linkedin-in
-
     # YOUTUBE
 #  - Name: YouTube
  #   URL: https://www.youtube.com/channel
  #   Username: UCS3zvA_2r1iGT7MB3NVCGAw
  #   Color: '#ff0000'
  #   Icon-Class: fab fa-youtube
-
-    # GITHUB
-#  - Name: GitHub
- #   URL: http://github.com
-#    Username: 
-  #  Color: '#6e5494'
- #   Icon-Class: fab fa-github
-
+# instagram
 
   - Name: Instagram
     URL: https://www.instagram.com
     Username: activemandarin.id
     Color: '#c32aa3'
     Icon-Class: fab fa-instagram
-
+# facebook
   - Name: Facebook
     URL: https://www.facebook.com
     Username: activemandarinindonesia
     Color: '#3b5998'
     Icon-Class: fab fa-facebook-f
 
-
+#tiktok
   - Name: Tiktok
     URL: https://tiktok.com/@activemandarin
     Icon-Class: fab fa-tiktok
@@ -86,9 +65,9 @@ links:
     #Icon-Class: fas fa-link
     #Color: '#ffb142'
     #Text_Color: '#ffffff'
-
+#contact US
   - Name: Hubungi Kami
-    URL: https://api.whatsapp.com/send/?phone=6285162557124&text&type=phone_number&app_absent=0
+    URL: https://api.whatsapp.com/send/?phone=6282122276775&text&type=phone_number&app_absent=0
     Icon-Class: fab fa-whatsapp
     Color: '#25d366'
     Text_Color: '#ffffff'
