@@ -24,6 +24,12 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-telegram-plane
 
+    #Collab dengan PPIDK
+  - Name: PPIDK X Active Mandarin
+    URL: https://ppidk.activemandarin.id
+    Color: 
+    Icon-Class: fa-regular fa-handshake
+
     # YOUTUBE
 #  - Name: YouTube
  #   URL: https://www.youtube.com/channel
