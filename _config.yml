@@ -28,7 +28,7 @@ links:
   - Name: PPIDK X Active Mandarin
     URL: https://ppidk.activemandarin.id
     Color: '#ffb142'
-    Icon-Class: fa-regular fa-handshake
+    Icon-Class: fa-handshake
 
     # YOUTUBE
 #  - Name: YouTube
