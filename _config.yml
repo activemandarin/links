@@ -27,7 +27,7 @@ links:
     #Collab dengan PPIDK
   - Name: PPIDK X Active Mandarin
     URL: https://ppidk.activemandarin.id
-    Color: 
+    Color: '#ffb142'
     Icon-Class: fa-regular fa-handshake
 
     # YOUTUBE
