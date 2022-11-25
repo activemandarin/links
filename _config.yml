@@ -16,7 +16,11 @@ links:
     Icon-Class: fa fa-globe
     Color: '#ffb142'
     Text_Color: '#ffffff'
-
+    #dafta kelas
+  - Name: Daftar Sekarang
+    URL: https://activemandarin.id/courses
+    Color: '#ffb142'
+    Icon-Class: fa-handshake
     #Free trial
   - Name: Gabung Free Trial
     URL: https://t.me/activemandarin
@@ -24,11 +28,7 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-telegram-plane
 
-    #Collab dengan PPIDK
-  - Name: PPIDK X Active Mandarin
-    URL: https://ppidk.activemandarin.id
-    Color: '#ffb142'
-    Icon-Class: fa-handshake
+
 
     # YOUTUBE
 #  - Name: YouTube
@@ -57,7 +57,7 @@ links:
     Color: '#FE2C55'
     Text_Color: '#ffffff'
 
-    # EMAIL
+       # EMAIL
   - Name: Email
     URL: 'mailto:support@activemandarin.id'
     Icon-Class: fas fa-envelope
