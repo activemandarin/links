@@ -4,7 +4,7 @@ name: Active Mandarin course
 tagline: Belajar bahasa mandarin jauh lebih mudah dengan activemandarin.id. yuk join sekarang dengan klik tombol di bawah ini
 
 
-Image_URL: https://activemandarin.id/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-10-at-09.29.12.jpg
+Image_URL: https://activemandarin.id/wp-content/uploads/2022/11/AM-LOGO-DCK.png
 
 Cover_Image: https://activemandarin.id/links/bg.jpg
 
@@ -22,7 +22,7 @@ links:
     Color: '#ffb142'
     Icon-Class: fa-handshake
     #Free trial
-  - Name: Gabung Free Trial
+  - Name: Gabung Telegram
     URL: https://t.me/activemandarin
     Username: 
     Color: '#1DA1F2'
